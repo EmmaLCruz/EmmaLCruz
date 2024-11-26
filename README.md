@@ -5,9 +5,9 @@
 Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.
 
 # Contactame
-🌐 [Portfolio](https://emmanuel-cruz.netlify.app)
-📫 [Email](mailto:emmanuelgerr@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)
+🌐 [Portfolio](https://emmanuel-cruz.netlify.app)  
+📫 [Email](mailto:emmanuelgerr@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)  
 
 
 <!--
