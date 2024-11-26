@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hola, soy Emmanuel, Desarrollador Frontend con experiencia en React, Tailwind CSS y Sass.
+
+# 👨‍💻 Emmanuel Cruz
+¡Bienvenido a mi perfil de GitHub! 🚀  
+Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.  
+🌐 [Portfolio](https://emmanuel-cruz.netlify.app) | 📫 [Email](mailto:emmanuelgerr@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)
+
 
 <!--
 **EmmaLCruz/EmmaLCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
