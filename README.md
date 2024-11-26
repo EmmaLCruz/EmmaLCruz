@@ -2,7 +2,7 @@
 
 # 👨‍💻 Emmanuel Cruz
 ¡Bienvenido a mi perfil de GitHub! 🚀  
-Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.
+Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
