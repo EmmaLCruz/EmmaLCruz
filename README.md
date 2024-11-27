@@ -18,9 +18,9 @@ Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y efi
 </p>
   
 ## Contactame
-🌐 [Portfolio](https://emmanuel-cruz.netlify.app)  
-📫 [Email](mailto:emmanuelgerr@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)  
+🌐 Visita mi [Portfolio](https://emmanuel-cruz.netlify.app)  
+📫 Mandame un [Email](mailto:emmanuelgerr@gmail.com)  
+💼 Perfil de [LinkedIn](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)  
 
 <!--
 **EmmaLCruz/EmmaLCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
