@@ -1,7 +1,7 @@
 # 👋 Hola, soy Emmanuel Cruz.
   
 ## 👨‍💻 Desarrollador Frontend con experiencia en React, Tailwind CSS y Sass
-¡Bienvenido a mi perfil de GitHub! 🚀  
+¡Bienvenido a mi perfil! 🚀  
 Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.  
   
 ## Lenguajes y Herramientas  
