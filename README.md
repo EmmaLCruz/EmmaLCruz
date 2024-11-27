@@ -1,6 +1,6 @@
 # 👋 Hola, soy Emmanuel.
   
-## 👨‍💻 Desarrollador Frontend con experiencia en React, Tailwind CSS y Sass
+## 👨‍💻 Desarrollador Frontend con experiencia en React, Tailwind CSS y Sass.
 ¡Bienvenido a mi perfil! 🚀  
 Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.  
   
