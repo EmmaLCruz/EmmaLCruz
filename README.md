@@ -1,4 +1,4 @@
-# 👋 Hola, soy Emmanuel Cruz.
+# 👋 Hola, soy Emmanuel.
   
 ## 👨‍💻 Desarrollador Frontend con experiencia en React, Tailwind CSS y Sass
 ¡Bienvenido a mi perfil! 🚀  
