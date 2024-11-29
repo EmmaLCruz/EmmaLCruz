@@ -6,7 +6,7 @@
 Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.  
 <br/>
 
-## Lenguajes y Herramientas  
+## 🛠 Lenguajes y Herramientas  
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
@@ -20,7 +20,7 @@ Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y efi
 </p>
 <br />
   
-## Contactame
+## ☎ Contactame
 🌐 Visita mi [Portfolio](https://emmanuel-cruz.netlify.app)  
 📫 Mandame un [Email](mailto:emmanuelgerr@gmail.com)  
 💼 Perfil de [LinkedIn](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)  
