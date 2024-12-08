@@ -1,4 +1,4 @@
-# 👋 Hola, soy Emmanuel.
+# Hola, soy Emmanuel 👋🏻
 ![](https://github.com/EmmaLCruz/EmmaLCruz/blob/main/banner-link1.jpg)
 <br/>
 
