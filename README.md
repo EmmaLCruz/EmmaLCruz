@@ -7,7 +7,7 @@ Welcome to my Profile! 🚀
 I'm a Frontend Developer with a passion for building intuitive and efficient interfaces.
 <br/>
 
-## 🛠 Lenguajes y Herramientas  
+## 🛠 Languages ​​and Tools
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
@@ -21,7 +21,7 @@ I'm a Frontend Developer with a passion for building intuitive and efficient int
 </p>
 <br />
   
-## 📫 Contáctame
+## 📫 Contact me
 [![Mi Web Personal](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emmanuel-cruz.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelgerr@gmail.com)
