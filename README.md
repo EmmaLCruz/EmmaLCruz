@@ -27,7 +27,7 @@ Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y efi
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelgerr@gmail.com)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmmaLCruz&theme=algolia&hide_border=false&include_all_commits=false&count_private=false) &nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=EmmaLCruz&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmmaLCruz&theme=algolia&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaLCruz&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
