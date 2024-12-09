@@ -1,10 +1,10 @@
-# Hola, soy Emmanuel 👋🏻
+# Hi, I'm Emmanuel 👋🏻
 ![](https://github.com/EmmaLCruz/EmmaLCruz/blob/main/banner-link1.jpg)
 <br/>
 
-## 👨‍💻 Desarrollador Frontend con experiencia en React, Tailwind CSS y Sass.
-¡Bienvenido a mi perfil! 🚀  
-Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y eficientes.  
+## 👨‍💻 Frontend Developer with experience in React, Tailwind CSS and Sass.
+Welcome to my Profile! 🚀  
+I'm a Frontend Developer with a passion for building intuitive and efficient interfaces.
 <br/>
 
 ## 🛠 Lenguajes y Herramientas  
