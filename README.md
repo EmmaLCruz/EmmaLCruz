@@ -21,12 +21,12 @@ Soy Desarrollador Frontend con pasión por construir interfaces intuitivas y efi
 </p>
 <br />
   
-## ☎ Contactame
-🌐 Visita mi [Portfolio](https://emmanuel-cruz.netlify.app)  
-📫 Mandame un [Email](mailto:emmanuelgerr@gmail.com)  
-💼 Perfil de [LinkedIn](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)  
+## 📫 Contáctame
+[![Mi Web Personal](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emmanuel-cruz.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cruz-6a242430b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelgerr@gmail.com)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EmmaLCruz&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmmaLCruz&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaLCruz&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
