@@ -2,7 +2,7 @@
 ![](https://github.com/EmmaLCruz/EmmaLCruz/blob/main/banner-link1.jpg)
 <br/>
 
-## 👨‍💻 Frontend Developer with experience in React, Tailwind CSS and Sass.
+## 👨‍💻 Frontend Developer
 Welcome to my Profile! 🚀  
 I'm a Frontend Developer with a passion for building intuitive and efficient interfaces.
 <br/>
