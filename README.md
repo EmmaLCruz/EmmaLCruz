@@ -3,7 +3,6 @@
 <br/>
 
 ## 👨‍💻 Frontend Developer
-Welcome to my Profile! 🚀  
 I'm a Frontend Developer with a passion for building intuitive and efficient interfaces.
 <br/>
 
