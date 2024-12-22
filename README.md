@@ -3,7 +3,7 @@
 <br/>
 
 ## 👨‍💻 Frontend Developer
-I'm a Frontend Developer with a passion for building intuitive and efficient interfaces.
+I am a developer passionate about creating intuitive and efficient interfaces that improve the user experience. I specialize in transforming ideas into clean and maintainable code.
 <br/>
 
 ## 🛠 Languages ​​and Tools
